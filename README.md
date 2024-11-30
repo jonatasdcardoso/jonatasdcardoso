@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonatasdcardoso
+- 👋 Hi, I’m Jônatas
 - 👀 I’m interested in Games and Data Science
 - 🌱 I’m currently learning Computer and Information Systems in Federal University of Mato Grosso do Sul
 - 💞️ I’m looking to collaborate on ...
